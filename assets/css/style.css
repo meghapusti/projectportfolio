@@ -506,7 +506,7 @@ main {
 
 
 
-/*
+
  * #service 
  
 
@@ -553,7 +553,7 @@ main {
   line-height: 1.6;
 }
 
-*/
+
 
 
 
@@ -1100,7 +1100,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .about-text { margin-bottom: 40px; }
 
 	
-  /* service 
+   service 
 
   .service-item {
     display: flex;
@@ -1116,7 +1116,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .service-content-box { text-align: left; }
-*/
+
 
   /**
    * #RESUME
@@ -1473,7 +1473,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .contact-info :is(.contact-link, time, address) {
-    --fs-8: 11px;
+    --fs-7: 12px;
     font-weight: var(--fw-300);
   }
 
