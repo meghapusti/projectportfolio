@@ -831,7 +831,7 @@ main {
 /*-----------------------------------*\
   #CONTACT
 \*-----------------------------------*/
-/*
+
 .mapbox {
   position: relative;
   height: 250px;
@@ -931,7 +931,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .form-btn:disabled:hover::before { background: var(--bg-gradient-jet); }
 
-*\
+
 
 
 
@@ -1151,7 +1151,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   /**
    * #CONTACT
    */
-/*
+
   .mapbox {
     height: 380px;
     border-radius: 18px;
@@ -1175,7 +1175,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-*/
+
 
 
 
@@ -1473,7 +1473,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .contact-info :is(.contact-link, time, address) {
-    --fs-7: 12px;
+    --fs-8: 10px;
     font-weight: var(--fw-300);
   }
 
