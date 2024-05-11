@@ -340,6 +340,7 @@ main {
   margin-bottom: 10px;
 }
 
+/*
 .info-content .title {
   color: var(--white-1);
   background: var(--onyx);
@@ -349,6 +350,7 @@ main {
   padding: 3px 12px;
   border-radius: 8px;
 }
+*/
 
 .info_more-btn {
   position: absolute;
@@ -504,9 +506,9 @@ main {
 
 
 
-/**
+/*
  * #service 
- */
+ 
 
 .service { margin-bottom: 35px; }
 
@@ -551,7 +553,7 @@ main {
   line-height: 1.6;
 }
 
-
+*/
 
 
 
@@ -829,7 +831,7 @@ main {
 /*-----------------------------------*\
   #CONTACT
 \*-----------------------------------*/
-
+/*
 .mapbox {
   position: relative;
   height: 250px;
@@ -929,7 +931,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .form-btn:disabled:hover::before { background: var(--bg-gradient-jet); }
 
-
+*\
 
 
 
@@ -1097,7 +1099,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .about-text { margin-bottom: 40px; }
 
-  /* service */
+	
+  /* service 
 
   .service-item {
     display: flex;
@@ -1113,7 +1116,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .service-content-box { text-align: left; }
-
+*/
 
   /**
    * #RESUME
@@ -1148,7 +1151,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   /**
    * #CONTACT
    */
-
+/*
   .mapbox {
     height: 380px;
     border-radius: 18px;
@@ -1172,7 +1175,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-
+*/
 
 
 
@@ -1470,7 +1473,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .contact-info :is(.contact-link, time, address) {
-    --fs-7: 14px;
+    --fs-8: 11px;
     font-weight: var(--fw-300);
   }
 
